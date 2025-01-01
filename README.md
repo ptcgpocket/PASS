@@ -1,1 +1,1 @@
-Server:ON|Vsersion:1.0
+ON|1.0
